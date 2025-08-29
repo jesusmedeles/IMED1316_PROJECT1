@@ -16,9 +16,23 @@ PROJECT 1
 
   <p style="color: blue;" title="This text is blue using inline style.">This sentence uses an inline style and a tooltip title.</p>
 
-  <img src="images/dog.jpg" alt="Brown dog sitting in grass" title="Dog photo">
-  <img src="images/cat.jpg" alt="Black and white cat on sofa" title="Cat photo">
-  <img src="images/bird.jpg" alt="Yellow bird in a tree" title="Bird photo">
+ <h2>Gallery</h2>
+
+<img src="images/dog.jpg"
+     alt="Brown dog sitting in grass"
+     title="Dog in the yard"
+     style="max-width: 300px; height: auto;">
+
+<img src="images/cat.jpg"
+     alt="Black and white cat on a sofa"
+     title="Cat on the couch"
+     style="max-width: 300px; height: auto;">
+
+<img src="images/bird.jpg"
+     alt="Yellow bird perched in a tree"
+     title="Yellow bird"
+     style="max-width: 300px; height: auto;">
+
 
 </body>
 </html>
